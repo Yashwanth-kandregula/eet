@@ -27,20 +27,20 @@
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 5px;
-    border: 1px solid #c;
+    border: 1px solid #0f0f0f;
   }
   
   button {
     padding: 10px;
     border-radius: 5px;
     border: none;
-    background-color: #4CAF50;
-    color: #fff;
+    background-color:#050114 ;
+    color: #eaefeb;
     font-size: 1.2rem;
     cursor: pointer;
     margin-top: 10px;
   }
   
   button:hover {
-    background-color: #3e8e42;
+    background-color: #400ec9 ;
   }
